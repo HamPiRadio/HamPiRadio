@@ -104,9 +104,10 @@ Ancillary Parts BOM
 #### In operation
 What’s it like when it’s in operation/ working?
 
-Notes:
+#### Notes:
+Comment on open/ closed source of code
 
-Credits:
+#### Credits:
 
 
 
