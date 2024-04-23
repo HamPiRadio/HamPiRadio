@@ -35,7 +35,7 @@ Your ideas and input are welcomed, here. If you are able to report bugs, then pl
 Block diagram?
 
 
-####Hardware:
+#### Hardware:
 A few sentences about the High Level Design?
 
 
