@@ -25,6 +25,7 @@ First stab:
 (Like the MVP, or from Michael’s website.)
 
 #### Contributing:
+Contributors are welcome to this project. For Active 'On The Go' issues please to see us here:  HamPiRadio Discord https://discord.com/invite/6k9mv8ME
 Your ideas and input are welcomed, here. If you are able to report bugs, then please do. Feature requests are encouraged; and any contributions to the documentation/ wiki are welcomed. Why not say ‘Hi!’ in the HamPiRadio Discord https://discord.com/invite/6k9mv8ME 
 
 #### Schematic:
