@@ -4,7 +4,7 @@
 
 ### HOLDING PAGE, AWAITING MICHAEL'S FIRST STAB
 
-I am working on this Chris. Please do read over, correct etc. M
+I am working on this Chris. Please do read over, correct etc. What about a gallery of pictures / construction pictures. On the website? M
 
 Hi, Michael.
 
