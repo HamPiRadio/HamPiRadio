@@ -22,11 +22,16 @@ First stab:
 
 
 #### List of features:
+For full and ongoing features see the HamPiRadio website:  https://hampiradio.com
+HamPiRadio is a 16 band Amateur Radio receiver and transmitter.
+It is designed to receive on LF, HF and VHF bands and transmit on all HF bands with 100W and on 8, 6 and 4Mtr bands on reduces power.
+It is essentially an Analog Transcsiver with all the needed contrils available (conventional controls - Knobs!) or single press function buttons, for ease and speed of access control.
 (Like the MVP, or from Michael’s website.)
 
 #### Contributing:
 Contributors are welcome to this project. For Active 'On The Go' issues please to see us here:  HamPiRadio Discord https://discord.com/invite/6k9mv8ME
-Your ideas and input are welcomed, here. If you are able to report bugs, then please do. Feature requests are encouraged; and any contributions to the documentation/ wiki are welcomed. Why not say ‘Hi!’ in the HamPiRadio Discord https://discord.com/invite/6k9mv8ME 
+
+By oprning up this project to others we are looking for 'helpful' and 'active contrubutions' from others.  If you are able to report bugs, then please do. Feature requests are encouraged; and any contributions to the documentation/ wiki are welcomed. Why not say ‘Hi!’ in the HamPiRadio Discord https://discord.com/invite/6k9mv8ME 
 
 #### Schematic:
 ?
