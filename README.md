@@ -4,7 +4,7 @@
 
 ### HOLDING PAGE, AWAITING MICHAEL'S FIRST STAB
 
-
+I am working on this Chris. Please do read over, correct etc. M
 
 Hi, Michael.
 
@@ -18,20 +18,31 @@ Chris.
 
 –
 
-First stab:
+Second stab:
 
 
 #### List of features:
-For full and ongoing features see the HamPiRadio website:  https://hampiradio.com
-HamPiRadio is a 16 band Amateur Radio receiver and transmitter.
+For full and ongoing features see the HamPiRadio website:  https://hampiradio.com/features/
+
+HamPiRadio is a 16 band Amateur Radio receiver and transmitter.  A 'Home Build', so the HAM can buy the bits and construst for themselves.
 It is designed to receive on LF, HF and VHF bands and transmit on all HF bands with 100W and on 8, 6 and 4Mtr bands on reduces power.
-It is essentially an Analog Transcsiver with all the needed contrils available (conventional controls - Knobs!) or single press function buttons, for ease and speed of access control.
-(Like the MVP, or from Michael’s website.)
+It is essentially an Analog Transcsiver with all the needed controls available (conventional controls - Knobs!) or single press function buttons, for ease and speed of access control.
+The Performance is expected to be among the best (Testing shows it is as good or better than an IC-7300). Current test results here: https://hampiradio.com/test-results/
+
+There essentually 4 PCBs to the design and of course they can be used individually for other projects.  The boards are 1. Radio Board, 2. CPU & Keypad board(s), 3. BandPass Filter Board & 4. PA Board.
 
 #### Contributing:
-Contributors are welcome to this project. For Active 'On The Go' issues please to see us here:  HamPiRadio Discord https://discord.com/invite/6k9mv8ME
+Contributors / Developers are welcome to this project. We are looking for:
+- Compitent RF and Analogue electronic designers to assist with a small number of issues
+- Assistance with the mechanical Case design.
+- Someone willing to design a 3D plastic Bezel.
+- At some point those to do testing further of the RF capability of the transceiver and update the test results (Test euippment will be needed).
+- While the software is working really well, there are some 'extra' desirables we have in mind (Such as remote controll over USB, CW paddle (currently 'straight key), a CW decover to text etc).
+- 
+For Active 'On The Go' issues please join us here:  HamPiRadio Discord https://discord.com/invite/6k9mv8ME
 
-By oprning up this project to others we are looking for 'helpful' and 'active contrubutions' from others.  If you are able to report bugs, then please do. Feature requests are encouraged; and any contributions to the documentation/ wiki are welcomed. Why not say ‘Hi!’ in the HamPiRadio Discord https://discord.com/invite/6k9mv8ME 
+By oprning up this project to others we are looking for 'helpful' and 'active contrubutions' from others who are keen to get this project flying. We are not so interested in armchair critics or in major re-designing project ideas. The current quest is to polish up this already cool design and get it fully working, reproducable and have others build and use them.
+If you are able to report bugs, then please do. Feature requests are encouraged; and any contributions to the documentation/ wiki are welcomed. Why not say ‘Hi!’ in the HamPiRadio Discord https://discord.com/invite/6k9mv8ME 
 
 #### Schematic:
 ?
