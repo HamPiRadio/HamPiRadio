@@ -2,7 +2,6 @@
 
 [Join us on Discord](https://discord.com/invite/6k9mv8ME)
 
-### HOLDING PAGE, AWAITING MICHAEL'S FIRST STAB
 
 What about a gallery of pictures / construction pictures. On the website? M
 
