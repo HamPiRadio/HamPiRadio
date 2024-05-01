@@ -3,7 +3,7 @@
 [Join us on Discord](https://discord.com/invite/RP8QehUP) (Link expires, so reach out if you need help to join)
 
 
-What about a gallery of pictures / construction pictures. On the website? M
+I will add / update photos on the website in the next days. M
 
 Michael, pictures etc, can be part of the README, but I would suggest that items used for reference, should go in the wiki https://github.com/HamPiRadio/HamPiRadio/wiki because when others get involved and contribute, they won't all have access to your website, that why we use collaborative wikis.
 
@@ -68,64 +68,39 @@ Will be uploaded to this repositary as a .pdf (Michael, an editable copy should 
 #### Main components:
 Maybe a few words or a line about each? Not essential. The Wiki will be the main place for the information.
 
-Radio Board
+BOARDS
+1. Radio Board
+2. CPU Board
+3. Keypad Board
+4. BandPass Filter Board
+5. PA Board
+6. Front Panel Board
+
+7. HamPi Firmware
+8. Heatsink Drawing
+9. Case Drawings
+10. Ancillary Parts BOM
 
 
-
-
-CPU Board
-
-
-
-
-HamPi Firmware
-
-
-
-
-Keypad PCB
-
-
-
-
-Front Panel Board
-
-
-
-
-BandPass Filter Board
-
-
-
-
-PA Board
-
-
-
-
-Heatsink Drawing
-
-
-
-
-Case Drawings
-
-
-
-
-Ancillary Parts BOM
-
-
-
+#### Rollout Plan
+This is the plan for the HamPiRadio at Michael's end.  The Rollout is a progression of the project as he sees it to get to a comlete MVP / working Transceiver.
+1. Manufacture latest CPU + Keypad boards 5 off, SMD and build / test.  For nor use current Front Panel PCBs and drill for the relocation of the LEDs. (Looking for a cool Contributor to desigh a sexi front panel / solks).
+2. Suggest Contributers who are also builders start with the new CPU + Keypad + Radio Board, Current produced version. This is then a working on the bench set up of the Receiver / Transmit with out Bandpass or PA boards.
+3. Sort the two issues on the Radio Board as detailed on Doscord by myself or preferable with Contributers help.
+4. Update the Radio board when 3. is compelete and manufatuture 5 off.
+5. Update the BPF and BPF boards for first SMD manufacture. Not a big job as they are already SMD just have been hand placed up to now. Some small changes are desired. Low risk.
+6. 'Other' - Case, wrapping up a stable desigh for sharing etc.
 
 #### In operation
 What’s it like when it’s in operation/ working?
 
 #### Notes:
-Comment on open/ closed source of code
+Open/ closed source of code. For now the downloadable UF2 firmware will be freely avaidable on git. The firmware works well and is stable. The software source will be reserved, at least for the time being. It will be released on a restricted basis to a limited team of contributers who have the necessary C language skills + Transcsiver skills. There are some desired future software additions to the software sugh as CW IAMBIC, CW decode to text and remove PC control. Are you up to it and keen?
 
-#### Credits:
-
+#### Credits & Contributors:
+The HamPiRadio is the creation of Michael Wise ZL3AZ (G0GPX / J87AB) in New Zealand.
+Cris Andrews 2E0FRU in getting the project Open-Sourced on GitHum, Discord and Project Broadcasting
+< looking forward to adding other contributers here >
 
 
 
