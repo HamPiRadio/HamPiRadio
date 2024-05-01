@@ -1,6 +1,6 @@
 # HamPiRadio Transceiver
 
-[Join us on Discord](https://discord.com/invite/6k9mv8ME)
+[Join us on Discord](https://discord.com/invite/RP8QehUP) (Link expires, so reach out if you need help to join)
 
 
 What about a gallery of pictures / construction pictures. On the website? M
