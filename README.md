@@ -1,21 +1,11 @@
 # HamPiRadio Transceiver
 
-[Join us on Discord](https://discord.com/invite/RP8QehUP) (Link expires, so reach out if you need help to join)
+[Join us on Discord](https://discord.com/channels/1224380244056604783/1224380244652327044) 
 
 
 I will add / update photos on the website in the next days. M
 
 Michael, pictures etc, can be part of the README, but I would suggest that items used for reference, should go in the wiki https://github.com/HamPiRadio/HamPiRadio/wiki because when others get involved and contribute, they won't all have access to your website, that why we use collaborative wikis.
-
-Hi, Michael.
-
-We need to put a README together for the project. This will give the reader a quick overview of the project (/vision), but I suspect we will break this out into better documentation, in a Wiki, or similar, on GitHub.
-
-This isn’t set in stone, so getting it right the first time is not a requirement. The following are just ideas. If you don’t want to add anything to the subtitles/ subsections, that’s fine. If there is anything in the list below that you don’t want in the README, please highlight it or delete it. It would be sensible to use words you already have, such as your website.
-
-Thanks,
-
-Chris.
 
 –
 
@@ -99,7 +89,7 @@ Open/ closed source of code. For now the downloadable UF2 firmware will be freel
 
 #### Credits & Contributors:
 The HamPiRadio is the creation of Michael Wise ZL3AZ (G0GPX / J87AB) in New Zealand.
-Cris Andrews 2E0FRU in getting the project Open-Sourced on GitHum, Discord and Project Broadcasting
+Chris Andrew (2E0FRU) in getting the project Open-Sourced on GitHub.
 < looking forward to adding other contributers here >
 
 
