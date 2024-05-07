@@ -88,11 +88,11 @@ What’s it like when it’s in operation/ working?
 Open/ closed source of code. For now the downloadable UF2 firmware will be freely avaidable on git. The firmware works well and is stable. The software source will be reserved, at least for the time being. It will be released on a restricted basis to a limited team of contributers who have the necessary C language skills + Transcsiver skills. There are some desired future software additions to the software sugh as CW IAMBIC, CW decode to text and remove PC control. Are you up to it and keen?
 
 #### Credits & Contributors:
-Michael Wise ZL3AZ (G0GPX / J87AB St Vincent and the Grenadines) The HamPiRadio is the creation of Michael who has lived North oc Christchurch, New Zealand since 2002.
+**Michael Wise ZL3AZ** (G0GPX / J87AB St Vincent and the Grenadines) The HamPiRadio is the creation of Michael who has lived North oc Christchurch, New Zealand since 2002.
 
-Chris Andrew (2E0FRU). Chris is a needed and great encouragement and practical help in making the HamPiRadio a shared and Open-Sourced project.
+**Chris Andrew 2E0FRU **Chris is a needed and great encouragement and practical help in making the HamPiRadio a shared and Open-Sourced project.
 
-Derwyn Williams ZL4SAE/GW4SAE Now Silent Key. Derwyn (Will) passed peacefully at home in Marton, New Zealand on 9th April 2019. Derwyn assisten me and contributed to the HamPiRadio Radio Board in its earlier forms, and became a close friend. We spoke at least weekly for hours about the design. His website is still up here: https://gw4sae.wordpress.com/ and has many useful contributions. I miss Will a lot. (Michael ZL3AX)
+**Derwyn Williams ZL4SAE/GW4SAE** Now Silent Key. Derwyn (Will) passed peacefully at home in Marton, New Zealand on 9th April 2019. Derwyn assisten me and contributed to the HamPiRadio Radio Board in its earlier forms, and became a close friend. We spoke at least weekly for hours about the design. His website is still up here: https://gw4sae.wordpress.com/ and has many useful contributions. I miss Will a lot. (Michael ZL3AX)
 
 < looking forward to adding other contributers here >
 
